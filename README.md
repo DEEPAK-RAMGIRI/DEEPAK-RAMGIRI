@@ -1,5 +1,14 @@
 # Hi there 👋
-   =>  I'm Deepak Ramgiri.<br>🎓 Currently pursuing B.Tech in Computer Science.<br>💡 Passionate about programming and AI  <br>🌱 Always learning something new!<br>
+   I'm Deepak Ramgiri, a student and an enthusiastic Python programmer. I love solving problems and building real-world projects with Python.
+   
+# Portfolio Website
+Visit: www.deepakramgiri.tech
+My personal website showcasing my projects, resume, and contact information.
+
+# Contact
+Website: www.deepakramgiri.tech
+GitHub: github.com/DEEPAK-RAMGIRI
+LinkedIn: linkedin.com/in/deepakramgiri
 
 
 ## 💻 Tech Stack:
