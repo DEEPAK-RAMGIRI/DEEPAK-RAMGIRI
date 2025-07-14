@@ -1,14 +1,14 @@
-# Hi there 👋
-   I'm Deepak Ramgiri, a student and an enthusiastic Python programmer.<br> I love solving problems and building real-world projects.
-   
-# Portfolio Website
-Visit: www.deepakramgiri.tech <br>
-My personal website showcasing my projects, resume, and contact information.
+# 👋 Hi, I'm Deepak Ramgiri!
 
-# Contact
-Website: (www.deepakramgiri.tech)<br>
-GitHub: (github.com/DEEPAK-RAMGIRI)<br>
-LinkedIn: (linkedin.com/in/deepakramgiri)<br>
+I'm a B.Tech Computer Science student at SR University.  
+I'm passionate about **Python programming**, building real-world projects, and solving problems that matter.
+
+Take a look at my portfolio:
+**Portfolio:** [www.deepakramgiri.tech](https://www.deepakramgiri.tech)   
+**LinkedIn:** [linkedin.com/in/deepakramgiri](https://linkedin.com/in/deepakramgiri)
+
+If you’re into tech, open-source, or want to collaborate on something cool — feel free to reach out!
+
 
 
 ## 💻 Tech Stack:
