@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Deepak Ramgiri!
+<h1 align="center"> 👋 Hi, I'm Deepak Ramgiri </h1>
+<p align="center">
+  <b>Student | Python, Java & NLP Enthusiast | Problem solver | Leetcoder</b>
+</p>
+
 
 I'm a B.Tech Computer Science student at SR University.  
 I'm passionate about **Python programming**, building real-world projects, and solving problems that matter.
