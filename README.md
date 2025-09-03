@@ -5,12 +5,14 @@
 
 
 I'm a B.Tech Computer Science student at SR University.  
-I'm passionate about **Python programming**, building real-world projects, and solving problems that matter.
+I'm passionate about **Python programming**, developing real-world projects, and solving meaningful problems.
 
 Connect with me: [Portfolio](https://www.deepakramgiri.tech)  |  [LinkedIn](https://linkedin.com/in/deepakramgiri) | [LeetCode](https://leetcode.com/u/DeepakRamgiri/)
 
 
-If you’re into tech, open-source, or want to collaborate on something cool — feel free to reach out!
+If you’re interested in tech, open-source, or potential collaboration, feel free to reach out. Also, feel free to visit my repositories
+
+if you find any errors or issues, I’d appreciate your feedback.
 
 <!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEEPAK-RAMGIRI) -->
 
