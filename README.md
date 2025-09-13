@@ -7,7 +7,7 @@
 I'm a B.Tech Computer Science student at SR University.  
 I'm passionate about **Python programming**, developing real-world projects, and solving meaningful problems.
 
-Do Visit: [Portfolio](https://deepakramgiri.tech/)  |  [LinkedIn](https://www.linkedin.com/in/deepak-ramgiri-b89359289/) | [LeetCode](https://leetcode.com/u/DeepakRamgiri/)
+Do Visit My: [Portfolio](https://deepakramgiri.tech/)  |  [LinkedIn](https://www.linkedin.com/in/deepak-ramgiri-b89359289/) | [LeetCode](https://leetcode.com/u/DeepakRamgiri/)
 
 
 If you’re interested in tech, open-source, or potential collaboration, feel free to reach out. Also, feel free to visit my repositories
