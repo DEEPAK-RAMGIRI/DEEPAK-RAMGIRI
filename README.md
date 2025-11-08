@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Deepak Ramgiri </h1>
 <p align="center">
-  <b>CS Student at SR University | Python, Java , AI & NLP Enthusiast | Leetcoder</b>
+  <b>CSE Student at SR University | Python, Java , AI & NLP Enthusiast | Leetcoder</b>
 </p>
 
 
